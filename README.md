@@ -42,6 +42,6 @@ Aspiring Data Analyst with experience in Python, data wrangling, and real-world 
 ## Contact
 
 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/anmol-jain-cma/)  
-Email: anmol.10041@gmail.com
+Email: anmol.10041@gmail.com  
 Secondry email: anmol.jain_cma@yahoo.com
 
