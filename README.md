@@ -33,6 +33,11 @@ Aspiring Data Analyst with experience in Python, data wrangling, and real-world 
 - Tools: pandas, numpy, python, metplotlib, Google Colab
 - [View on GitHub](https://github.com/anmoljaincma/project_4_internship_unified_mentor)
 
+### 6. Mobile Sales Data Dashboard [GitHub]
+- This project analyzes a dataset of mobile sales transactions of different companies.
+- Tools: Power BI, Power Query
+- [View on GitHub](https://github.com/anmoljaincma/Mobile_sales_dashboard)
+
   ## How to Explore
 
 - Click any project title above for presentations or code.
